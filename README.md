@@ -1,5 +1,5 @@
 # 💫 About Me:
-Merhabalar, Karadeniz Teknik Üniversitesi Yazılım<br>Mühendisliği 2.Sınıf öğrencisiyim. Teknolojiyi seviyor ve<br>yakından takip ediyorum. İletişim becerileri yüksek, yeni<br>teknolojileri öğrenmeye açık, problem çözücü ve sorumluluk<br>sahibi biriyim. Özenli, hevesli ve dikkatli çalışmanın mutlaka<br>başarı ile sonuçlanacağının bilincindeyim.
+Hello, I am a 3nd-year Software Engineering student at Karadeniz Technical University. I have a strong passion for technology and stay closely informed about the latest advancements. Possessing excellent communication skills, I am open to learning new technologies, and I consider myself a proactive problem solver with a strong sense of responsibility. I am meticulous, enthusiastic, and aware that careful work leads to success.
 
 
 ## 🌐 Socials:
