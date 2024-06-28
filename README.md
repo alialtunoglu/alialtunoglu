@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am a 3nd-year Software Engineering student at Karadeniz Technical University. I have a strong passion for technology and stay closely informed about the latest advancements. Possessing excellent communication skills, I am open to learning new technologies, and I consider myself a proactive problem solver with a strong sense of responsibility. I am meticulous, enthusiastic, and aware that careful work leads to success.
+Hello, I am a 4nd-year Software Engineering student at Karadeniz Technical University. I have a strong passion for technology and stay closely informed about the latest advancements. Possessing excellent communication skills, I am open to learning new technologies, and I consider myself a proactive problem solver with a strong sense of responsibility. I am meticulous, enthusiastic, and aware that careful work leads to success.
 
 
 ## 🌐 Socials:
