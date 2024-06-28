@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hello, I am a 4nd-year Software Engineering student at Karadeniz Technical University. I have a strong passion for technology and stay closely informed about the latest advancements. Possessing excellent communication skills, I am open to learning new technologies, and I consider myself a proactive problem solver with a strong sense of responsibility. I am meticulous, enthusiastic, and aware that careful work leads to success.
+Hello, I belong to the fourth year of software engineering students, and my interest areas are computer vision
+and deep learning. I am focusing on programming and data analysis tools to deepen a set of techniques that use
+ML and deep learning after acquiring a vital knowledge base. Recently, I worked quite well at recognition,
+treatment of graphical images and meticulous refinement of model performance. I will also explore MLOps so
+as to optimize the deployment and scalability of ML models. My career goal is to focus on continual learning,
+put what I know into real-world projects, and follow the latest trends in data science and computer vision
+closely.
 
 
 ## 🌐 Socials:
